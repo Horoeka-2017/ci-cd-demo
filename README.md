@@ -6,7 +6,7 @@ We'll use [Travis CI](https://travis-ci.org) to run our tests and deploy to Hero
 ## Checklist
 
 * Ensure Travis CI has access to the user account/org
-* Switch on the repository on the [profile](https://travis-ci.org/profile/pohutukawa-2016)
+* Switch on the repository on the [profile](https://travis-ci.org/profile/horoeka-2017)
 * Add a `.travis.yml` file
 * Install the Travis CI and the Heroku CLI tools
 * Add the required settings in the `.travis.yml` file
